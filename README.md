@@ -6,6 +6,9 @@ Repositório para armazenar arquivos da 11ª semana OmniStack pela RocketSeat.
 ### Back-end
 * Node.js
 
+### DataBase
+* SQLite
+
 ### Front-end
 #### Web
 * React js
